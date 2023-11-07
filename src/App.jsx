@@ -11,7 +11,7 @@ function App() {
     <>
       <Header />
       <Herosection />
-      <Ourproduct/>
+      {/* <Ourproduct/> */}
       <Product />
       <Product flex={"flex-row-reverse  gap-[10%] bg-gray-100"} />
       <Product />
